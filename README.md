@@ -1,16 +1,14 @@
-### Hi there 👋
+#  `👋 Hi, I’m Fernando from Argentina!!
 
-<!--
-**fedapon/fedapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💪 Professional Background
+- Since 2011 I'm graduated as an Electronic Engineer.
+- I worked in maintenance and as a process engineer in a heavy metallurgical company.
+- Currently, I'm  working for an industrial automation company. I program PLC, industrial robots, desktop applications integrated with the client ERP, and also with printers, scales, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :earth_americas: How to find me?
+- 📫 You can find me at https://www.linkedin.com/in/fedapon.
+
+
+
