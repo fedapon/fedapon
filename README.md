@@ -1,6 +1,3 @@
-#  `👋 Hi, I’m Fernando from Argentina!!
-
-
 ## 💪 Professional Background
 - Since 2011 I'm graduated as an Electronic Engineer.
 - I worked in maintenance and as a process engineer in a heavy metallurgical company.
